@@ -41,6 +41,7 @@
     2. [ ] Crash coruse with projects
         - [ ] [Watch video part 1](https://www.youtube.com/watch?v=P7NgFfIaWgU)
         - [ ] [Watch video part 2](https://www.youtube.com/watch?v=Aru6eM9VYKo)
+    3. [ ] [Watch video](https://youtu.be/5fb2aPlgoys)
 12. BOM
     - [ ] [Watch videos from 104 to 115 not included](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 13. Regular expressions
