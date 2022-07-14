@@ -49,7 +49,7 @@
 14. Localstorage
     - [ ] [Watch video](https://www.youtube.com/watch?v=k8yJCeuP6I8&t=103s)
 15. JSON
-    - [ ] [Watch vide](https://www.youtube.com/watch?v=iiADhChRriM)
+    - [ ] [Watch video](https://www.youtube.com/watch?v=iiADhChRriM)
     - [ ] [Watch another video](https://www.youtube.com/watch?v=wI1CWzNtE-M&t=1s)
 16. Ajax XHR
     - [ ] [Watch vdieo](https://youtu.be/82hnvUYY6QA)
