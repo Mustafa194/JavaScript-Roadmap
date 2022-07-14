@@ -16,7 +16,7 @@
             2. [ ] ```for-in``` loop
             3. [ ] ```for-of``` loop
 4. Math object
-    [ ] [Watch vdieo](https://www.youtube.com/watch?v=93Nd8f9HU8Q)
+    - [ ] [Watch vdieo](https://www.youtube.com/watch?v=93Nd8f9HU8Q)
 5. Date object
     - [ ] [Watch video](https://www.youtube.com/watch?v=9mCNzP0ibJ8)
     - [ ] [Watch another video](https://www.youtube.com/watch?v=-eRsWqwcPuk)
