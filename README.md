@@ -62,4 +62,5 @@
     - [ ] [Watch video](https://youtu.be/PoRJizFvM7s)
 20. OOP, Classes and prototypes
     - [ ] [Watch playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)
-21. 
+21. ES6
+    - [ ] [Watch video](https://www.youtube.com/watch?v=WZQc7RUAg18)
